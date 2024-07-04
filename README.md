@@ -5,9 +5,9 @@
 – Sunucu Kimliği
 – Sunucu Üye Sayısı
 
-3-) Verileriniz, erişimi şifreleme ile kısıtlanmış bir veritabanında tutulur. Sorularınız için bot geliştiricileri ile iletişime geçebilirsiniz. https://discord.gg/SY7aMsVpUJ
+3-) Verileriniz, erişimi şifreleme ile kısıtlanmış bir veritabanında tutulur. Sorularınız için bot geliştiricileri ile iletişime geçebilirsiniz. https://discord.gg/7aykgr4dtM
 
 4-) – Kişisel verilerin eksik veya yanlış işlenmesi halinde düzeltilmesini isteme
 – Kişisel verilerin silinmesini veya yok edilmesini talep etme
 
-5-) Hiçbir çekinme duymadan https://discord.gg/SY7aMsVpUJ destek sunucusuna gelip soru sorabilirsiniz.
+5-) Hiçbir çekinme duymadan https://discord.gg/7aykgr4dtM destek sunucusuna gelip soru sorabilirsiniz.
